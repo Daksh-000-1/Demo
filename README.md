@@ -18,5 +18,5 @@
 To become a Data Scientist and work in US / Europe
 
 ## 📫 Contact
-- LinkedIn: (add later)
-- Email: (optional)
+- LinkedIn: <a>https://www.linkedin.com/in/daksh-kundu-731b5631b?utm_source=share_via&utm_content=profile&utm_medium=member_android </a>
+- Email: dakshkundu04@gmail.com
